@@ -1,0 +1,97 @@
+"sample-id"	"sample-well"	"final-conc"	"community-name"	"chem-code"	"Amoxicillin"	"Chlorothalonil"	"Diflufenican"	"Glyphosate"	"Imidacloprid"	"Metaldehyde"	"Oxytetracycline"	"Tebuconazole"	"complexity"
+"Sample1"	"A01"	4	"R_ID_7.16_1_R10(1)_TSS"	"Frozen Starting Community"									0
+"Sample2"	"A02"	4	"R_ID_7.16_1_R10(1)_TSS"	"A"	1	0	0	0	0	0	0	0	1
+"Sample3"	"A03"	0.1	"R_ID_7.16_1_R10(1)_TSS"	"O"	0	0	0	0	0	0	1	0	1
+"Sample4"	"A04"	4	"R_ID_7.16_1_R10(1)_TSS"	"CM"	0	1	0	0	0	1	0	0	2
+"Sample5"	"A05"	0	"R_ID_7.16_1_R10(1)_TSS"	"IO"	0	0	0	0	1	0	1	0	2
+"Sample6"	"A06"	4	"R_ID_7.16_1_R10(1)_TSS"	"IT"	0	0	0	0	1	0	0	1	2
+"Sample7"	"A07"	4	"R_ID_7.16_1_R10(1)_TSS"	"G"	0	0	0	1	0	0	0	0	1
+"Sample8"	"A08"	4	"R_ID_7.16_1_R10(1)_TSS"	"AD"	1	0	1	0	0	0	0	0	2
+"Sample9"	"A09"	0.17	"R_ID_7.16_1_R10(1)_TSS"	"M"	0	0	0	0	0	1	0	0	1
+"Sample10"	"A10"	4	"R_ID_7.16_1_R10(1)_TSS"	"GT"	0	0	0	1	0	0	0	1	2
+"Sample11"	"A11"	4	"R_ID_7.16_1_R10(1)_TSS"	"control"	0	0	0	0	0	0	0	0	0
+"Sample12"	"A12"	1	"R_ID_7.16_1_R10(1)_TSS"	"AM"	1	0	0	0	0	1	0	0	2
+"Sample13"	"B01"	4	"R_ID_7.16_1_R10(1)_TSS"	"CM"	0	1	0	0	0	1	0	0	2
+"Sample14"	"B02"	4	"R_ID_7.16_1_R10(1)_TSS"	"C"	0	1	0	0	0	0	0	0	1
+"Sample15"	"B03"	1.3	"R_ID_7.16_1_R10(1)_TSS"	"T"	0	0	0	0	0	0	0	1	1
+"Sample16"	"B04"	2.02	"R_ID_7.16_1_R10(1)_TSS"	"IO"	0	0	0	0	1	0	1	0	2
+"Sample17"	"B05"	4	"R_ID_7.16_1_R10(1)_TSS"	"D"	0	0	1	0	0	0	0	0	1
+"Sample18"	"B06"	4	"R_ID_7.16_1_R10(1)_TSS"	"CD"	0	1	1	0	0	0	0	0	2
+"Sample19"	"B07"	4	"R_ID_7.16_1_R10(1)_TSS"	"I"	0	0	0	0	1	0	0	0	1
+"Sample20"	"B08"	0.46	"R_ID_7.16_1_R10(1)_TSS"	"GO"	0	0	0	1	0	0	1	0	2
+"Sample21"	"B09"	4	"R_ID_7.16_1_R10(1)_TSS"	"M"	0	0	0	0	0	1	0	0	1
+"Sample22"	"B10"	4	"R_ID_7.16_1_R10(1)_TSS"	"CDGO"	0	1	1	1	0	0	1	0	4
+"Sample23"	"B11"	4	"R_ID_7.16_1_R10(1)_TSS"	"CGMT"	0	1	0	1	0	1	0	1	4
+"Sample24"	"B12"	4	"R_ID_7.16_1_R10(1)_TSS"	"ACDGIMOT"	1	1	1	1	1	1	1	1	8
+"Sample25"	"C01"	1.91	"R_ID_7.16_1_R10(1)_TSS"	"control"	0	0	0	0	0	0	0	0	0
+"Sample26"	"C02"	4	"R_ID_7.16_1_R10(1)_TSS"	"C"	0	1	0	0	0	0	0	0	1
+"Sample27"	"C03"	4	"R_ID_7.16_1_R10(1)_TSS"	"T"	0	0	0	0	0	0	0	1	1
+"Sample28"	"C04"	4	"R_ID_7.16_1_R10(1)_TSS"	"G"	0	0	0	1	0	0	0	0	1
+"Sample29"	"C05"	4	"R_ID_7.16_1_R10(1)_TSS"	"I"	0	0	0	0	1	0	0	0	1
+"Sample30"	"C06"	1.78	"R_ID_7.16_1_R10(1)_TSS"	"ADIO"	1	0	1	0	1	0	1	0	4
+"Sample31"	"C07"	1.95	"R_ID_7.16_1_R10(1)_TSS"	"ACDGIMOT"	1	1	1	1	1	1	1	1	8
+"Sample32"	"C08"	4	"R_ID_7.16_1_R10(1)_TSS"	"AIMT"	1	0	0	0	1	1	0	1	4
+"Sample33"	"C09"	0.76	"R_ID_7.16_1_R10(1)_TSS"	"A"	1	0	0	0	0	0	0	0	1
+"Sample34"	"C10"	2.6	"R_ID_7.16_1_R10(1)_TSS"	"O"	0	0	0	0	0	0	1	0	1
+"Sample35"	"C11"	4	"R_ID_7.16_1_R10(1)_TSS"	"AM"	1	0	0	0	0	1	0	0	2
+"Sample36"	"C12"	4	"R_ID_7.16_1_R10(1)_TSS"	"D"	0	0	1	0	0	0	0	0	1
+"Sample37"	"D01"	4	"R_ID_7.16_1_R10(1)_TSS"	"IT"	0	0	0	0	1	0	0	1	2
+"Sample38"	"D02"	4	"R_ID_7.16_1_R10(1)_TSS"	"AD"	1	0	1	0	0	0	0	0	2
+"Sample39"	"D03"	4	"R_ID_7.16_1_R10(1)_TSS"	"CD"	0	1	1	0	0	0	0	0	2
+"Sample40"	"D04"	4	"R_ID_7.16_1_R10(1)_TSS"	"GO"	0	0	0	1	0	0	1	0	2
+"Sample41"	"D05"	4	"R_ID_7.16_1_R10(1)_TSS"	"GT"	0	0	0	1	0	0	0	1	2
+"Sample42"	"D06"	4	"R_ID_7.16_1_R10(1)_TSS"	"ADIO"	1	0	1	0	1	0	1	0	4
+"Sample43"	"D07"	4	"R_ID_7.16_1_R10(1)_TSS"	"CDGO"	0	1	1	1	0	0	1	0	4
+"Sample44"	"D08"	4	"R_ID_7.16_1_R10(1)_TSS"	"CGMT"	0	1	0	1	0	1	0	1	4
+"Sample45"	"D09"	0.23	"R_ID_7.16_1_R10(1)_TSS"	"AIMT"	1	0	0	0	1	1	0	1	4
+"Sample46"	"D10"	0.59	"Extraction negative control"										0
+"Sample47"	"D11"	4	"Extraction negative control"										0
+"Sample48"	"D12"	0.12	"Extraction negative control"										0
+"Sample49"	"E01"	4	"R_ID_7.16_4_R10(1)_TSS"	"Frozen Starting Community"									0
+"Sample50"	"E02"	4	"R_ID_7.16_4_R10(1)_TSS"	"O"	0	0	0	0	0	0	1	0	1
+"Sample51"	"E03"	4	"R_ID_7.16_4_R10(1)_TSS"	"C"	0	1	0	0	0	0	0	0	1
+"Sample52"	"E04"	4	"R_ID_7.16_4_R10(1)_TSS"	"T"	0	0	0	0	0	0	0	1	1
+"Sample53"	"E05"	1.34	"R_ID_7.16_4_R10(1)_TSS"	"D"	0	0	1	0	0	0	0	0	1
+"Sample54"	"E06"	4	"R_ID_7.16_4_R10(1)_TSS"	"AT"	1	0	0	0	0	0	0	1	2
+"Sample55"	"E07"	4	"R_ID_7.16_4_R10(1)_TSS"	"GI"	0	0	0	1	1	0	0	0	2
+"Sample56"	"E08"	1.54	"R_ID_7.16_4_R10(1)_TSS"	"G"	0	0	0	1	0	0	0	0	1
+"Sample57"	"E09"	0.19	"R_ID_7.16_4_R10(1)_TSS"	"I"	0	0	0	0	1	0	0	0	1
+"Sample58"	"E10"	4	"R_ID_7.16_4_R10(1)_TSS"	"DI"	0	0	1	0	1	0	0	0	2
+"Sample59"	"E11"	4	"R_ID_7.16_4_R10(1)_TSS"	"M"	0	0	0	0	0	1	0	0	1
+"Sample60"	"E12"	4	"R_ID_7.16_4_R10(1)_TSS"	"ACDGIMOT"	1	1	1	1	1	1	1	1	8
+"Sample61"	"F01"	4	"R_ID_7.16_4_R10(1)_TSS"	"control"	0	0	0	0	0	0	0	0	0
+"Sample62"	"F02"	4	"R_ID_7.16_4_R10(1)_TSS"	"A"	1	0	0	0	0	0	0	0	1
+"Sample63"	"F03"	4	"R_ID_7.16_4_R10(1)_TSS"	"T"	0	0	0	0	0	0	0	1	1
+"Sample64"	"F04"	4	"R_ID_7.16_4_R10(1)_TSS"	"CO"	0	1	0	0	0	0	1	0	2
+"Sample65"	"F05"	4	"R_ID_7.16_4_R10(1)_TSS"	"GM"	0	0	0	1	0	1	0	0	2
+"Sample66"	"F06"	3.22	"R_ID_7.16_4_R10(1)_TSS"	"DI"	0	0	1	0	1	0	0	0	2
+"Sample67"	"F07"	4	"R_ID_7.16_4_R10(1)_TSS"	"OT"	0	0	0	0	0	0	1	1	2
+"Sample68"	"F08"	4	"R_ID_7.16_4_R10(1)_TSS"	"ACDM"	1	1	1	0	0	1	0	0	4
+"Sample69"	"F09"	0.23	"R_ID_7.16_4_R10(1)_TSS"	"CGMO"	0	1	0	1	0	1	1	0	4
+"Sample70"	"F10"	3.73	"R_ID_7.16_4_R10(1)_TSS"	"control"	0	0	0	0	0	0	0	0	0
+"Sample71"	"F11"	0	"R_ID_7.16_4_R10(1)_TSS"	"O"	0	0	0	0	0	0	1	0	1
+"Sample72"	"F12"	4	"R_ID_7.16_4_R10(1)_TSS"	"CM"	0	1	0	0	0	1	0	0	2
+"Sample73"	"G01"	4	"R_ID_7.16_4_R10(1)_TSS"	"C"	0	1	0	0	0	0	0	0	1
+"Sample74"	"G02"	4	"R_ID_7.16_4_R10(1)_TSS"	"CO"	0	1	0	0	0	0	1	0	2
+"Sample75"	"G03"	4	"R_ID_7.16_4_R10(1)_TSS"	"AT"	1	0	0	0	0	0	0	1	2
+"Sample76"	"G04"	4	"R_ID_7.16_4_R10(1)_TSS"	"AD"	1	0	1	0	0	0	0	0	2
+"Sample77"	"G05"	2.84	"R_ID_7.16_4_R10(1)_TSS"	"GM"	0	0	0	1	0	1	0	0	2
+"Sample78"	"G06"	4	"R_ID_7.16_4_R10(1)_TSS"	"I"	0	0	0	0	1	0	0	0	1
+"Sample79"	"G07"	4	"R_ID_7.16_4_R10(1)_TSS"	"M"	0	0	0	0	0	1	0	0	1
+"Sample80"	"G08"	4	"R_ID_7.16_4_R10(1)_TSS"	"OT"	0	0	0	0	0	0	1	1	2
+"Sample81"	"G09"	0.38	"R_ID_7.16_4_R10(1)_TSS"	"ADIT"	1	0	1	0	1	0	0	1	4
+"Sample82"	"G10"	4	"R_ID_7.16_4_R10(1)_TSS"	"GIOT"	0	0	0	1	1	0	1	1	4
+"Sample83"	"G11"	4	"R_ID_7.16_4_R10(1)_TSS"	"ADIT"	1	0	1	0	1	0	0	1	4
+"Sample84"	"G12"	4	"R_ID_7.16_4_R10(1)_TSS"	"GIOT"	0	0	0	1	1	0	1	1	4
+"Sample85"	"H01"	4	"R_ID_7.16_4_R10(1)_TSS"	"ACDGIMOT"	1	1	1	1	1	1	1	1	8
+"Sample86"	"H02"	4	"R_ID_7.16_4_R10(1)_TSS"	"A"	1	0	0	0	0	0	0	0	1
+"Sample87"	"H03"	2.72	"R_ID_7.16_4_R10(1)_TSS"	"CM"	0	1	0	0	0	1	0	0	2
+"Sample88"	"H04"	4	"R_ID_7.16_4_R10(1)_TSS"	"D"	0	0	1	0	0	0	0	0	1
+"Sample89"	"H05"	4	"R_ID_7.16_4_R10(1)_TSS"	"GI"	0	0	0	1	1	0	0	0	2
+"Sample90"	"H06"	4	"R_ID_7.16_4_R10(1)_TSS"	"G"	0	0	0	1	0	0	0	0	1
+"Sample91"	"H07"	4	"R_ID_7.16_4_R10(1)_TSS"	"AD"	1	0	1	0	0	0	0	0	2
+"Sample92"	"H08"	4	"R_ID_7.16_4_R10(1)_TSS"	"ACDM"	1	1	1	0	0	1	0	0	4
+"Sample93"	"H09"	0.61	"R_ID_7.16_4_R10(1)_TSS"	"CGMO"	0	1	0	1	0	1	1	0	4
+"Sample94"	"H10"	0.65	"Extraction negative control"										0
+"Sample95"	"H11"	0.13	"Extraction negative control"										0
+"Sample96"	"H12"	0.15	"Extraction negative control"										0
