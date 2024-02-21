@@ -1,0 +1,6 @@
+# don't bother with the picrust intermediate files
+data/Earlham/picrust/intermediate
+
+# don't track the (really big) contributional format picrust files
+data/Earlham/picrust/EC_metagenome_out/pred_metagenome_contrib.tsv.gz
+data/Earlham/picrust/pathways_out/path_abun_contrib.tsv.gz

@@ -1,4 +1,4 @@
-# Chemicals vs Bacterial Communities
+# Chemical Pollutants vs Bacterial Communities
 Investigating the effects of chemical mixtures on microbial community structure and function.
 
 This is a follow-on from our Nature Microbiology paper [*High-througput characterization of bacterial responses to complex mixtures of chemical pollutants*](https://doi.org/10.1038/s41564-024-01626-9), where we assayed the responses of single strains of bacteria to chemical mixtures. Here we have assayed the responses of whole microbial communities to all mixtures of the same 8 chemicals used previously:
@@ -30,3 +30,5 @@ If you imagine that each point is a chemical mixture and each row contains more 
 ## Code
 
 ## Notebooks
+
+qiime-workflow.md - workflow for ASV prediction from raw sequence data, and enzyme pathway prediction via picrust.
