@@ -27,8 +27,13 @@ If you imagine that each point is a chemical mixture and each row contains more 
 
 ## Data
 
+* `/miseq-inhouse`: an attempt to run the sequencing in-house, but sequence quality too poor to make much use of.
+* `/Earlham`: sequencing from the Earlham Institute - this one used for analysis.
+
 ## Code
 
 ## Notebooks
 
-qiime-workflow.md - workflow for ASV prediction from raw sequence data, and enzyme pathway prediction via picrust.
+* `qiime-workflow.md` - workflow for ASV prediction from raw sequence data, and enzyme pathway prediction via picrust.
+* `preliminary-data.ipynb` - a look at the preliminary in-house sequencing data.
+* `diversity-visualisations.ipynb` - visualising how the taxonomic and functional diversity of the communities changes with addition of more chemicals.
